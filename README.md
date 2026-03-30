@@ -89,3 +89,10 @@ See [`sample_output.json`](./sample_output.json) and [`sample_output.csv`](./sam
   { "participant_id": "p_mn78op", "condition": "B", "decision": "accept", "timestamp": "2026-03-30T08:22:31.005Z", "latency_ms": 9214 }
 ]
 ```
+
+## Screenshots
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/a9ad3313-92c3-49ed-ae74-3e659630616d" />
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/e1b068de-d197-4f64-8b17-d165b095d21f" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/a856db65-59ba-473c-86e9-bafed4aefd50" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/2f0d9551-94b8-4dd3-a61c-9c70c574822f" />
+
