@@ -50,7 +50,7 @@ Every decision is sent via POST to `/api/log`, which appends an entry to `data/l
 | `timestamp` | ISO 8601, written server-side at time of log |
 | `latency_ms` | Time from trial page load to button click, measured client-side |
 
-`data/logs.json` is gitignored and stays local. To export as CSV, visit `/api/export` in the browser.
+To export as CSV, visit `/api/export` in the browser.
 
 
 ## How to Run Locally
